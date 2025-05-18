@@ -70,7 +70,7 @@ Velo clinic system ENG Mostafa Osman
 
 لو حابب تتعرف أكتر على المشروع أو تطلب نسخة خاصة مخصصة لك:
 
-- 📧 Email: contact@velotitan.com
+- 📧 Email: br.mostafa.osman.com
 - 🌐 Website: [https://velotitan.site/](https://velotitan.site/)
 
 ---
